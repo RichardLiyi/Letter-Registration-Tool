@@ -1,0 +1,1 @@
+Pyinstaller -F -w -i 律林军logo.ico 所函-登记表处理.py
